@@ -10,7 +10,7 @@ This repository contains a shopping app built using the MERN stack. Please follo
 4. Payment using Paypal or Card
 5. Search bar for searching product 
 
-[Working Demo](https://www.myapp.com/)
+[Working Demo](https://kind-lime-top-coat.cyclic.app/)
 
 ### Instructions
 
